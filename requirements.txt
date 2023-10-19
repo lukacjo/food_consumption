@@ -200,3 +200,4 @@ urllib3==1.26.15
 virtualenv==20.21.0
 Werkzeug==2.3.6
 WTForms==3.0.1
+macOS
