@@ -49,3 +49,11 @@ urllib3==1.26.15
 virtualenv==20.21.0
 Werkzeug==2.2.3
 WTForms==3.0.1
+pandas
+missingno
+matplotlib
+pycountry_convert
+plotly
+numpy
+dash
+jupyter_dash
