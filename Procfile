@@ -1,1 +1,0 @@
-web: gunicorn <name>:server --workers 2
